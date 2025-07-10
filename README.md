@@ -8,4 +8,7 @@ pip install instabot
 Then clone the repository uaing: <br>
 git clone https://github.com/Ayeshakhan77/Insta_bot_automation
 
+Then run this file using:
+python insta_bot.py
+
 For any assistance reach me at: ayeshawork51@gmail.com
